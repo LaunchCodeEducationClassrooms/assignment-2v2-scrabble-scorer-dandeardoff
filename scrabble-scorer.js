@@ -153,7 +153,6 @@ function transform(object){
     return newPoints
 };
 
-
 let newPointStructure =(transform(oldPointStructure));
 
 function runProgram(){
